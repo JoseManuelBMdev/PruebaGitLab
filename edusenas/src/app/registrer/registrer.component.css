@@ -1,0 +1,12 @@
+.card{
+    border-radius: 25px;
+    min-height: 500px;
+    margin-top: 25px;
+    background-color: transparent;
+    border-color: transparent;
+    color: white;
+}
+
+a{
+    color: white !important;
+}
